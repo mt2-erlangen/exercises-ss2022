@@ -1,6 +1,6 @@
-# exercises-ss2021
+# exercises-ss2022
 
-This the project template for the exercises of summer semester 2021.
+This the project template for the exercises of summer semester 2022.
 You can download it, to get a skeleton for your home works.
 Later, we will publish solutions for the homeworks here.
 
