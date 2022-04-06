@@ -1,12 +1,12 @@
 # exercises-ss2022
 
-This the project template for the exercises of summer semester 2022.
-You can download it, to get a skeleton for your home works.
-Later, we will publish solutions for the homeworks here.
+This is the project template for the MT2 exercises for summer semester 2022.
+You can download or clone the repository to get a skeleton for your homeworks.
+We will publish the solutions of the homeworks here at a announced time.
 
 
 
-Find instructions for the exercises here: https://mt2-erlangen.github.io/
+You find all instructions for the exercises here: https://mt2-erlangen.github.io/
 
 ## Troubleshooting
 
